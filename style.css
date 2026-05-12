@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+header {
+background-color: #00AB6F;
+padding:5px;
+}
+nav a{
+    border: 5px solid #58EE00;
+    border-radius:30px;
+    padding:5px 10px;
+    text-decoration:none;
+    margin:20px;
+}
+nav{
+    margin:20px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color:#0C5AA6;
+}
+h2{
+    background-color: #83F03C;
+    display: inline-block;
+    padding:5px 10px;
+}
+.shop{
+    background-color: #00AB6F;
+    padding:5px 10px;
+    text-decoration:none;
+    color:black;
+
+}
+
